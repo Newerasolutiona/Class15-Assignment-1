@@ -16,3 +16,5 @@ Compilation is a feature of Maven while Gradle avoids compilation.
 Performance:
 Maven is slower than Gradle in terms of performance.
 
+Customization:
+Maven is less customizable than Gradle which supports a variety of Integrated Development Environments.
