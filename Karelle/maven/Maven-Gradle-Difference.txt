@@ -3,3 +3,8 @@ Difference between Maven and Gradle
 Generalities:
 
 Gradle is an open-source build automation tool known for its flexibility to build software while Maven is an open-source project management tool that is used to create different software in the lifecycle used by this tool.
+
+Goal:
+
+Gradle is used to add functionality to a project and is based on developing domain-specific language projects while Maven is based on developing Java-based software.
+
