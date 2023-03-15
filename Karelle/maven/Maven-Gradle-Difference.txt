@@ -12,3 +12,7 @@ Configuration:
 
 Maven uses Extensible Markup Language for creating project structure while Gradle uses a Groovy-based Domain-specific Language (DSL) for creating project structure.
 
+Compilation:
+
+Compilation is a feature of Maven while Gradle avoids compilation.
+
